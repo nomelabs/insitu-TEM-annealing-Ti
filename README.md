@@ -1,5 +1,16 @@
 # In situ TEM annealing of neutron-irradiated Ti reveals a mechanism for elevated temperature radiation damage recovery
 ## Contents
+Below, an explanation of the contents of each section in this repository can be found.
+### Heating Curve
+This folder contains a graph showing the heating profile of the sample, as well as a text file with all of the data pertaining to the chip's heating over the course of the in-situ experiment.
+### Line and Loop Movement Frames
+Here, each frame showing the movement of a line and loop dislocation can be found, these are the frames which were used to create the videos pertaining to this movement.
+### Original Frames
+This folder contains each of the frames which were manually annotated prior to the annotations being made.
+### Polygon Annotation Analysis
+In this folder, the subfolder annotated images shows the frames post-annotation. The annotation data subfolder contains the polygonal annotations for each frame, and the raw images folder contains the images prior to annotating. The script in this folder is the script used to plot the annotations created using an external software, Roboflow, back onto the original frames.
+### Videos
+This folder contains the video of the chip during its in-situ heating from 100C and up. The line and loop movement videos are also present here.
 ## Contact
 ## Citing
 ## License
