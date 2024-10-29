@@ -6,8 +6,8 @@ This folder contains a graph showing the heating profile of the sample, as well 
 ### Line and Loop Movement Frames
 Here, each frame showing the movement of a line and loop dislocation can be found, these are the frames which were used to create the videos pertaining to this movement.
 ### Orientation and Thickness
-An EFTEM map of the region of interest can be found in the Region Thickness image. The thickness of the region shown in the video is about 170 nm, which was calculated using the mfp value found from the map (1.6 mfp) with the known mfp value of titanium at 200 keV (106 nm).
 In the Diffraction Pattern image, the diffraction pattern of the region of interest can be found, which was used to find the orientation shown in the Orientation image.
+An EFTEM map of the region of interest can be found in the Region Thickness image. The thickness of the region shown in the video is about 170 nm, which was calculated using the mfp value found from the map (1.6 mfp) with the known mfp value of titanium at 200 keV (106 nm).
 ### Original Frames
 This folder contains each of the frames which were manually annotated prior to the annotations being made.
 ### Polygon Annotation Analysis
