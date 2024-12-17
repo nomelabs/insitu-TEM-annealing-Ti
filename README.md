@@ -2,13 +2,15 @@
 ## Contents
 Below, an explanation of the contents of each section in this repository can be found.
 ### Heating Curve
-This folder contains a graph showing the heating profile of the sample, as well as a text file with all of the data pertaining to the chip's heating over the course of the in-situ experiment. The sample is a 0.8~dpa neutron-irradiated commercially-pure Grade 2 (CP-2) Ti sample subject to a heating rate of 20\degree C/min between 25--600\degree C. For this study, only the dynamic heating section was analyzed.
+This folder contains a graph showing the heating profile of the sample, as well as a text file with all of the data pertaining to the chip's heating over the course of the in-situ experiment. The sample is a 0.8~dpa neutron-irradiated commercially-pure Grade 2 (CP-2) Ti sample subject to a heating rate of 20 degree-C between 25--600 degree-C. For this study, only the dynamic heating section was analyzed.
 ### Line and Loop Movement Frames
 Here, each frame showing the movement of a line and loop dislocation can be found, these are the frames which were used to create the videos pertaining to this movement.
 ### Orientation and Thickness
-In the Diffraction Pattern image, the diffraction pattern of the region of interest can be found, which was used to find the orientation shown in the Orientation image.
+For the diffraction pattern image: (a) Low magnification TEM image showing the region which was analyzed during _in situ_ heating, including the region where the diffraction pattern (DP 1702) was taken. (b) Diffraction pattern taken from region indicated in (a) showing the two beam condition used during imaging with **g** = 1 0 3 near a zone axis of [-3 1 1].
 
-An EFTEM map of the region of interest can be found in the Region Thickness image. The thickness of the region shown in the video is about 170 nm, which was calculated using the mfp value found from the map (1.6 mfp) with the known mfp value of titanium at 200 keV (106 nm).
+For the orientation image: (a) Stereographic projection showing the orientation of the **c** axis with respect to the images taken. (b) Image with overlayed orientations denoting the **c** direction and the resulting **a** direction of movement.
+
+The thickness map image shows an energy-filtered Transmission Electron Microscopy (EFTEM) map for the imaged region. The lamella thickness ~170nm was calculated using the mean free path (mfp) value, for Ti at 200keV this equals 106nm, multiplied by the thickness factor obtained from the analyzed region, 1.6 mfp.
 ### Original Frames
 This folder contains each of the frames which were manually annotated prior to the annotations being made.
 ### Polygon Annotation Analysis
