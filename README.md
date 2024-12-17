@@ -2,7 +2,7 @@
 ## Contents
 Below, an explanation of the contents of each section in this repository can be found.
 ### Heating Curve
-This folder contains a graph showing the heating profile of the sample, as well as a text file with all of the data pertaining to the chip's heating over the course of the in-situ experiment.
+This folder contains a graph showing the heating profile of the sample, as well as a text file with all of the data pertaining to the chip's heating over the course of the in-situ experiment. The sample is a 0.8~dpa neutron-irradiated commercially-pure Grade 2 (CP-2) Ti sample subject to a heating rate of 20\degree C/min between 25--600\degree C. For this study, only the dynamic heating section was analyzed.
 ### Line and Loop Movement Frames
 Here, each frame showing the movement of a line and loop dislocation can be found, these are the frames which were used to create the videos pertaining to this movement.
 ### Orientation and Thickness
