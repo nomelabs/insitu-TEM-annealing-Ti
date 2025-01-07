@@ -25,7 +25,12 @@ In this folder, the subfolder annotated images shows the frames post-annotation.
 The values used to calculate the velocity of the loop motion are included in the _'HCP-Angles-v2.xlsx'_ document. The projected distance of 16.8 nm is divided by the sine of the angle between the zone axis and the possible crystallographic direction to determine the true distance traveled.
 
 ### Videos
-This folder contains the video of the chip during its _in situ_ heating from 100°C and up. The line and loop movement videos are also present here.
+This folder contains the full video of the sample during its _in situ_ heating from 100°C and up. The line and loop movement videos are also presented here:
+
+https://github.com/user-attachments/assets/50c49daa-0882-4b2c-a48f-4d6d91ca085b
+
+https://github.com/user-attachments/assets/faf91459-a73f-44d1-a111-7a8f73b1e0c1
+
 
 ## Contact
 ## Citing
