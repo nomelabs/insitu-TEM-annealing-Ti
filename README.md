@@ -30,9 +30,3 @@ This folder contains the full video of the sample during its _in situ_ heating f
 https://github.com/user-attachments/assets/50c49daa-0882-4b2c-a48f-4d6d91ca085b
 
 https://github.com/user-attachments/assets/faf91459-a73f-44d1-a111-7a8f73b1e0c1
-
-
-## Contact
-## Citing
-## License
-## Acknowledgements
