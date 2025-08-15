@@ -9,7 +9,7 @@ This folder contains a graph showing the heating profile of the sample, as well 
 Here, each frame showing the movement of a dislocation loop and network dislocation can be found, these are the frames which were used to create the videos (see below) pertaining to this movement.
 
 ### Orientation and Thickness
-For the diffraction pattern image: (a) Low magnification TEM image showing the region which was analyzed during _in situ_ heating, including the region where the diffraction pattern (DP 1702) was taken. (b) Diffraction pattern taken from region indicated in (a) showing the two beam condition used during imaging with **g** = 1 0 3 near a zone axis of [-3 1 1].
+For the diffraction pattern image: (a) Low magnification TEM image showing the region which was analyzed during _in situ_ heating, including the region where the diffraction pattern (DP 1702) was taken. (b) Diffraction pattern taken from region indicated in (a) showing the two beam condition used during imaging with **g** = 2 -1 -1 9 near a zone axis of [-7 5 2 3].
 
 For the orientation image: (a) Stereographic projection showing the orientation of the **c** axis with respect to the images taken. (b) Image with overlayed orientations denoting the **c** direction and the resulting **a** direction of movement.
 
@@ -25,7 +25,7 @@ In this folder, the subfolder annotated images shows the frames post-annotation.
 The values used to calculate the velocity of the loop motion are included in the _'HCP-Angles-v2.xlsx'_ document. The projected distance of 16.8 nm is divided by the sine of the angle between the zone axis and the possible crystallographic direction to determine the true distance traveled.
 
 ### Videos
-This folder contains the full video of the sample during its _in situ_ heating from 100°C and up. The line and loop movement videos are also presented here:
+This folder contains the full video of the sample during its _in situ_ heating from 100°C and an excerpt highlighting the dislocation activity above 550°C. The line and loop movement videos are also presented here:
 
 https://github.com/user-attachments/assets/50c49daa-0882-4b2c-a48f-4d6d91ca085b
 
